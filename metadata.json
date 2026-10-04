@@ -1,0 +1,6 @@
+{
+  "name": "AegisNet - Self-Healing Autonomous Network Security Agent",
+  "description": "Autonomous cybersecurity system featuring a 3-agent Detect-Act-Verify loop, AI-based multi-source log correlation, live network containment, and self-healing threat verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
